@@ -15,7 +15,7 @@
 #   - {motd} For The Message Of The Day
 #  Default Config:
 #    prefix: "&bBlazinBroadcasts &6>"
-#    message_interval: 30
+#    message_interval: 60
 #    messages:
 #     - "&bBlazinBroadcasts &bby &bBlazeTheDev"
 #     - "&bBlazinBroadcasts &bby &bBlazeTheDev"
@@ -24,7 +24,7 @@
 prefix: "&bBlazinBroadcasts &6> "
 
 # The below config is the number of seconds in between each message
-message_interval: 30
+message_interval: 60
 
 # The below config are the messages that will be sent in-game (NOTE: You can use any of the variables that are described above)
 messages:
